@@ -2,6 +2,13 @@ feature-a
 1 2 3
 
 feature-b
+<<<<<<< HEAD
 1 2
 
 feature-c
+=======
+
+
+feature-c
+1 2 3 4 5
+>>>>>>> feature-C
